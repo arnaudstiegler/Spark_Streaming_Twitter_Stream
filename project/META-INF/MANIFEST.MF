@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/arnaudstiegler/users/Desktop/sparkStreaming/src/mai
+ n/scala/happyGeoLocation.scala
+Main-Class: happyGeoLocation
+
